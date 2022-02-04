@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
+#container {}
+
+
+#img1 {
+  width: 20em;
+  height: auto;
+}
+
+#img2 {
+  width: 20em;
+  height: auto;
+}
+
+#img3 {
+  width: 20em;
+  height: auto;
+}
+
+#img4 {
+  width: 20em;
+  height: auto;
+}
+
+#img5 {
+  height: 260px;
+  width: 20em;
+}
+
+#img6 {
+  width: 20em;
+  height: auto;
+}
+
+.images1 {
+  position: relative;
+  left: 70em;
+
+}
+
+.images2 {
+  position: relative;
+  bottom: 900px;
+  left: 120px;
+}
+
+.text1 {
+  position: relative;
+  left: 470px;
+  bottom: 420px;
+}
+
+#text {
+  font-family: lato;
+  font-style: italic;
+  font-size: 200%;
+}
